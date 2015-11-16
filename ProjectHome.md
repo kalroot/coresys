@@ -1,0 +1,3 @@
+A modular framework build in PHP 5.x to provide a easily implemented CMS into any existing website or as a core dynamic structure for a new site; built completely object oriented to allow for quick implementation; an advanced debugging/ error handling system for reporting and notification; and, a simple template API for custom phtml files.
+
+The goal is to provide a system for the novice web developer to build secure dynamic websites.
